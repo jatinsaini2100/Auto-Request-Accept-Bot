@@ -11,7 +11,7 @@
         "Bot"
     ],
     "website": "https://youtube.com/@Jeetu542",
-    "repository": "https://github.com/jatinsinghsaini2100/Auto-Request-Accept-Bot",
+    "repository": "https://github.com/aadhi000/Auto-Request-Accept-Bot",
     "success_url": "https://youtube.com/@Jeetu542",
     "env": {
         "API_ID": {
