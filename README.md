@@ -43,5 +43,4 @@
 
 <b>`APPROVED_WELCOME_TEXT`</b> : **Approved Welcome Text**
 ### Developer
-- [AutoApprove Bot by Mo Tech](https://github.com/PR0FESS0R-99/Auto-Approved-Bot)
-## [Share Support And Subscribe](https://youtube.com/channel/UCf_dVNrilcT0V2R--HbYpMA)
+- [AutoApprove Bot by @sastatony ](https://github.com/jatinsaini2100/Auto-Request-Accept-Bot)
